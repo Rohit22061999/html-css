@@ -1,0 +1,71 @@
+
+.container1{
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    height: 50px;
+    width: 400px;
+    margin:20px 20px auto;    
+    float:left;
+    background-color:aquamarine ;
+    color:white;
+
+}
+.container2{
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    height: 50px;
+    width: 400px;
+    margin:20px 20px auto;    
+    float:left;
+    background-color:red ;
+    color:white;
+
+}
+.container3{
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    height: 50px;
+    width: 400px;
+    margin:20px 20px auto;    
+    float:left;
+    background-color:goldenrod ;
+    color:white;
+
+}
+.container4{
+    margin-top: 20px;
+    height:600px;
+    width: 100%;
+    background-image: url(/image/myimages/banner.jpg);
+}
+.quotes_company{
+    height:40px;                
+}
+
+#facebook{
+    background-color: #334c82;                
+}
+
+#twitter{
+    background-color: #29c3f7;
+}
+
+#instagram{
+    background-color: #c10894;
+}
+
+#dribble{
+    background-color: #de3e7c;
+}
+
+#pinerest{
+    background-color: #cc2127;
+}
+.footer_base_images{
+    width:30px;
+    height:20px;
+    margin:5px;
+}
